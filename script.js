@@ -31,7 +31,8 @@ $(function(){
         "oauth: ks7bJpp8bvxz35hq",
         "Updating ....\nUpdating [0%]...\nUpdating [33%]...\nUpdating [69%]...\nUpdating [99%]...\nUpdating [Finished]***",
         ">>>Changing IP Address***",
-        "\t\tAlmost There..."
+        "\t\tAlmost There...",
+        ">>>Searching..."
 
     ];
     
